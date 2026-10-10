@@ -1,0 +1,6 @@
+{
+  "name": "Mr. Mayor",
+  "description": "A real-time political city simulation where power, corruption, and truth are contested systems. Manage a city, navigate faction politics, and decipher biased information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

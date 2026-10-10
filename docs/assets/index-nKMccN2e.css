@@ -1,0 +1,1 @@
+@tailwind base;@tailwind components;@tailwind utilities;@keyframes flicker{0%{opacity:.97}50%{opacity:1}to{opacity:.96}}.terminal-flicker{animation:flicker .15s infinite}@keyframes gentle-bounce{0%,to{transform:translateY(0)}50%{transform:translateY(-4px)}}.animate-float{animation:gentle-bounce 2s ease-in-out infinite}
